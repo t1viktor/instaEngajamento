@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+}
+
+body{
+background: #bcbdbe;
+   
+}
+
+
+::selection{
+    background-color: #8a3ab9;
+    color: #fbad50;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #cd486b;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #ffffff;
+}
+
